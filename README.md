@@ -4,6 +4,7 @@
 
 ## HOW TO USE 🔧  
 *You can skip this part if you already know how to deal with CLI-based programs.*  
+[RUN THIS PROGRAM DIRECTLY THROUGH THE SOURCE CODE]  
 1. This program is only interacted through your keyboard.  
 2. All functions were listed in the title screen, make your choice by typing their indexes.  
 3. [YES/NO] interactions only works for integer input (1:YES | 0:NO).  
@@ -23,4 +24,5 @@ TECHJUSTICE101 - 374 lines of code
   
 ### TIME COMPLETION:
 4 hours 53 minutes  
+
 
